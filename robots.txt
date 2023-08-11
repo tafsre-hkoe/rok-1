@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsre-hkoe.github.io/rok-1/sitemap.xml
